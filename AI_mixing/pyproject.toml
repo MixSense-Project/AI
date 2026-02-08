@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mixsense-mixing"
+version = "0.2.0"
+description = "MixSense AI_mixing MVP2 (Option 1)"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24","scipy>=1.10","librosa>=0.10","soundfile>=0.12","tqdm>=4.66"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

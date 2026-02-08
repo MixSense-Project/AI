@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: mixsense-mixing
+Version: 0.2.0
+Summary: MixSense AI_mixing MVP2 (Option 1)
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: librosa>=0.10
+Requires-Dist: soundfile>=0.12
+Requires-Dist: tqdm>=4.66

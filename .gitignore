@@ -1,0 +1,21 @@
+# python
+__pycache__/
+*.pyc
+
+# env
+.venv/
+.env
+
+# mac
+.DS_Store
+
+# audio / large
+**/data/inputs/
+**/data/processed/
+**/data/cache/
+**/outputs/*.wav
+**/outputs/*.mp3
+**/*.zip
+
+# models (너무 크면 제외, 작으면 주석 처리)
+# **/models/*.joblib

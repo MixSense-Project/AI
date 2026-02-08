@@ -37,7 +37,7 @@ MixSense의 **AI DJ Mixing 엔진**입니다.
 
 ---
 
-## Why this is NOT just a crossfade (면접 핵심)
+## Why this is NOT just a crossfade 
 
 단순 crossfade는 “A를 줄이고 B를 키우는” 2채널 볼륨 보간입니다.  
 MixSense는 그보다 한 단계 위로, **곡을 ‘스템/파트 단위로 분해된 요소’로 보고 실제로 재조합**합니다.

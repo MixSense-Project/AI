@@ -61,7 +61,7 @@ python recommender_home_autoplay.py
 
 ---
 
-# ✅ 한국어 짧은 버전 (GitHub에 같이 넣어도 괜찮음)
+# ✅ 한국어 짧은 버전 
 
 ---
 
